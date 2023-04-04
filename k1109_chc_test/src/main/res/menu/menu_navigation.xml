@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="Login"/>
+    <item
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="회원가입"/>
+    <item
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="자유게시판"/>
+    <item
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="공지사항"/>
+
+</menu>
